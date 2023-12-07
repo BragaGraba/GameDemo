@@ -9,3 +9,9 @@ GameDemo/Logs
 
 # Ignore Temp folder
 GameDemo/Temp
+
+# Ignore NGUI folder
+GameDemo/NGUI
+
+# Ignore IgnoreDir folder
+IgnoreDir 
