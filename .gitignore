@@ -1,0 +1,11 @@
+# Ignore all log files
+*.log
+
+# Ignore Library folder
+GameDemo/Library
+
+# Ignore Log folder
+GameDemo/Logs
+
+# Ignore Temp folder
+GameDemo/Temp
